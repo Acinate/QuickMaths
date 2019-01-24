@@ -1,0 +1,7 @@
+C:\Projects\C#\QuickMaths\QuickMaths\bin\Debug\QuickMaths.exe.config
+C:\Projects\C#\QuickMaths\QuickMaths\bin\Debug\QuickMaths.exe
+C:\Projects\C#\QuickMaths\QuickMaths\bin\Debug\QuickMaths.pdb
+C:\Projects\C#\QuickMaths\QuickMaths\obj\Debug\QuickMaths.csprojAssemblyReference.cache
+C:\Projects\C#\QuickMaths\QuickMaths\obj\Debug\QuickMaths.csproj.CoreCompileInputs.cache
+C:\Projects\C#\QuickMaths\QuickMaths\obj\Debug\QuickMaths.exe
+C:\Projects\C#\QuickMaths\QuickMaths\obj\Debug\QuickMaths.pdb

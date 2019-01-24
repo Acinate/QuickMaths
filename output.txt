@@ -1,0 +1,100 @@
+Thread 1: The number is '1' is odd.
+Thread 2: The number is '2' is even.
+Thread 1: The number is '3' is divisible by three.
+Thread 2: The number is '4' is even.
+Thread 1: The number is '5' is odd.
+Thread 2: The number is '6' is divisible by two and three.
+Thread 1: The number is '7' is odd.
+Thread 2: The number is '8' is even.
+Thread 1: The number is '9' is divisible by three.
+Thread 2: The number is '10' is even.
+Thread 1: The number is '11' is odd.
+Thread 2: The number is '12' is divisible by two and three.
+Thread 1: The number is '13' is odd.
+Thread 2: The number is '14' is even.
+Thread 1: The number is '15' is divisible by three.
+Thread 2: The number is '16' is even.
+Thread 1: The number is '17' is odd.
+Thread 2: The number is '18' is divisible by two and three.
+Thread 1: The number is '19' is odd.
+Thread 2: The number is '20' is even.
+Thread 1: The number is '21' is divisible by three.
+Thread 2: The number is '22' is even.
+Thread 1: The number is '23' is odd.
+Thread 2: The number is '24' is divisible by two and three.
+Thread 1: The number is '25' is odd.
+Thread 2: The number is '26' is even.
+Thread 1: The number is '27' is divisible by three.
+Thread 2: The number is '28' is even.
+Thread 1: The number is '29' is odd.
+Thread 2: The number is '30' is divisible by two and three.
+Thread 1: The number is '31' is odd.
+Thread 2: The number is '32' is even.
+Thread 1: The number is '33' is divisible by three.
+Thread 2: The number is '34' is even.
+Thread 1: The number is '35' is odd.
+Thread 2: The number is '36' is divisible by two and three.
+Thread 1: The number is '37' is odd.
+Thread 2: The number is '38' is even.
+Thread 1: The number is '39' is divisible by three.
+Thread 2: The number is '40' is even.
+Thread 1: The number is '41' is odd.
+Thread 2: The number is '42' is divisible by two and three.
+Thread 1: The number is '43' is odd.
+Thread 2: The number is '44' is even.
+Thread 1: The number is '45' is divisible by three.
+Thread 2: The number is '46' is even.
+Thread 1: The number is '47' is odd.
+Thread 2: The number is '48' is divisible by two and three.
+Thread 1: The number is '49' is odd.
+Thread 2: The number is '50' is even.
+Thread 1: The number is '51' is divisible by three.
+Thread 2: The number is '52' is even.
+Thread 1: The number is '53' is odd.
+Thread 2: The number is '54' is divisible by two and three.
+Thread 1: The number is '55' is odd.
+Thread 2: The number is '56' is even.
+Thread 1: The number is '57' is divisible by three.
+Thread 2: The number is '58' is even.
+Thread 1: The number is '59' is odd.
+Thread 2: The number is '60' is divisible by two and three.
+Thread 1: The number is '61' is odd.
+Thread 2: The number is '62' is even.
+Thread 1: The number is '63' is divisible by three.
+Thread 2: The number is '64' is even.
+Thread 1: The number is '65' is odd.
+Thread 2: The number is '66' is divisible by two and three.
+Thread 1: The number is '67' is odd.
+Thread 2: The number is '68' is even.
+Thread 1: The number is '69' is divisible by three.
+Thread 2: The number is '70' is even.
+Thread 1: The number is '71' is odd.
+Thread 2: The number is '72' is divisible by two and three.
+Thread 1: The number is '73' is odd.
+Thread 2: The number is '74' is even.
+Thread 1: The number is '75' is divisible by three.
+Thread 2: The number is '76' is even.
+Thread 1: The number is '77' is odd.
+Thread 2: The number is '78' is divisible by two and three.
+Thread 1: The number is '79' is odd.
+Thread 2: The number is '80' is even.
+Thread 1: The number is '81' is divisible by three.
+Thread 2: The number is '82' is even.
+Thread 1: The number is '83' is odd.
+Thread 2: The number is '84' is divisible by two and three.
+Thread 1: The number is '85' is odd.
+Thread 2: The number is '86' is even.
+Thread 1: The number is '87' is divisible by three.
+Thread 2: The number is '88' is even.
+Thread 1: The number is '89' is odd.
+Thread 2: The number is '90' is divisible by two and three.
+Thread 1: The number is '91' is odd.
+Thread 2: The number is '92' is even.
+Thread 1: The number is '93' is divisible by three.
+Thread 2: The number is '94' is even.
+Thread 1: The number is '95' is odd.
+Thread 2: The number is '96' is divisible by two and three.
+Thread 1: The number is '97' is odd.
+Thread 2: The number is '98' is even.
+Thread 1: The number is '99' is divisible by three.
+Thread 2: The number is '100' is even.
